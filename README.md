@@ -1,4 +1,4 @@
-# Mohd Nafees — Recruiter Portfolio
+# Mohd Nafees — Portfolio
 
 A static portfolio designed for GitHub Pages. No framework or build step.
 
