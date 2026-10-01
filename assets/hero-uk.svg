@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#8fffc1"/><stop offset="1" stop-color="#64b5ff"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="900" height="700" rx="48" fill="#0a111d"/>
+<g opacity=".18" stroke="#b6c8e4"><path d="M0 110H900M0 220H900M0 330H900M0 440H900M0 550H900"/><path d="M120 0V700M240 0V700M360 0V700M480 0V700M600 0V700M720 0V700"/></g>
+<path d="M510 75l-30 45 18 40-31 42 17 44-43 34-9 54-44 29 6 47-38 49 20 55-30 45 39 58 66-20 35-54 48-29 10-52 47-31-11-55 34-54-20-48 27-55-36-31-5-59-43-18-7-61z" fill="#101d2d" stroke="url(#g)" stroke-width="4" filter="url(#glow)"/>
+<g fill="#8fffc1"><circle cx="490" cy="165" r="8"/><circle cx="455" cy="280" r="8"/><circle cx="470" cy="395" r="8"/><circle cx="424" cy="495" r="8"/></g>
+<g stroke="url(#g)" fill="none" stroke-width="4"><path d="M120 515C220 470 285 505 355 415S520 365 595 275 730 215 805 130"/><path d="M120 565C225 530 310 555 385 510S520 470 600 430 725 360 805 390" opacity=".45"/></g>
+<g font-family="Arial" fill="#dce9f8"><text x="70" y="90" font-size="24" opacity=".65">REAL UK DATA</text><text x="70" y="125" font-size="16" opacity=".5">economy • health • retail • networks</text></g>
+</svg>
